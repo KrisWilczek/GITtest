@@ -1,2 +1,1 @@
-Dodanie nowej, eksperymentalnej funkcjonalności.
-Swoją drogą Ala wciąż ma kota. Bez odbioru.
+zmiana w pliku.
